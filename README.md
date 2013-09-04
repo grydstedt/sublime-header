@@ -1,1 +1,1 @@
-Creates header snippets for your
+Bring me some headers.
